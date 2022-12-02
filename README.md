@@ -14,3 +14,10 @@ how to use:
 
 more explanations can be found in github or the documentation
 source code is also on github
+
+
+
+
+
+
+documentation: https://docs.google.com/document/d/10diTAvDw1AEfvXPHQVddYOOvggwDlSIwmGPQPHou4K4/edit?usp=sharing
