@@ -1,0 +1,12 @@
+the user is an individual:
+  you are allowed to:
+    1: use the package in your personal projects, and redistribute them as long as they dont generate any profit.
+    2: make any neccesary changes to the source code to better suit your project.
+    
+  you are not allowed:
+    1: to profit any any way shape or form from the package.
+    2: to include the package in any software / app / package that is meant to generate profit without asking me for permission.
+    
+the user is a company / corporation / institution (or any other entity (not including individuals)):
+  you are not allowed:
+    1: use the package without first getting written permission from me.
